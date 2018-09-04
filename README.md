@@ -1,2 +1,2 @@
-# Decentraverse
-A parallel universe on the Ethereum blockchain.
+# Decentraworld
+Earth, after filtering out the centralized entities.
