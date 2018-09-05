@@ -7,3 +7,4 @@ A curated list of all the possible centralized entities on earth in no particula
 4. Non-Governmental Organizations (NGOs)
 5. Conferences
 6. Crowdfunding applications
+7. Supply-chain Management Systems
