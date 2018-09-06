@@ -1,4 +1,4 @@
-# Decentraworld
+# Decentraworld [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 A curated list of all the possible centralized entities (tangible/intangible) on earth in no particular order, along with orgs/people already working on it to decentralize it; in order to connect interested blockchain developers to these orgs/people. This also works as a to-do list for total decentralization.  
 
 ### 1. Organizations / Companies / Communities
@@ -42,4 +42,4 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 ### 15. Bounties
   [The Bounties Network](https://bounties.network/) | [Status Open Bounty](https://openbounty.status.im/)
   
-#### Get your contributions booming in by sending PRs. Find a problem with the current list? Create an issue. Let's spread decentralization.
+#### Find a problem with the current list? Create an issue. Get your contributions booming in. Let's decentralize.
