@@ -9,30 +9,28 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 
 ### 3. Education / Universities / Colleges / Institutions
 
-### 4. Non-Governmental Organizations (NGOs)
+### 4. Conferences
 
-### 5. Conferences
+### 5. Crowdfunding applications
 
-### 6. Crowdfunding applications
+### 6. Supply-chain Management Systems
 
-### 7. Supply-chain Management Systems
+### 7. Financial Systems
 
-### 8. Financial Systems
-
-### 9. Social Media
+### 8. Social Media
   [Steemit](https://steemit.com/) | [1ramp](https://1ramp.io/)
 
-### 10. Judicial Systems
+### 9. Judicial Systems
   [Aragon](https://aragon.org/)
 
-### 11. Video Streaming
+### 10. Video Streaming
   [DTube](https://d.tube/)
 
-### 12. Open Source
+### 11. Open Source
   [Gitcoin](https://gitcoin.co/) | [Utopian](https://join.utopian.io/)
 
-### 13. Charity
+### 12. Charity
   [Giveth](https://giveth.io/)
   
   
-## Get your contributions booming in by sending PRs. Find a problem with the current list? Create an issue. Let's grow our decentralization community
+#### Get your contributions booming in by sending PRs. Find a problem with the current list? Create an issue. Let's grow our decentralization community
