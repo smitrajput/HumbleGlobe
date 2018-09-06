@@ -21,7 +21,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 ### 8. Social Media
   [Steemit](https://steemit.com/) | [1ramp](https://1ramp.io/)
 
-### 9. Judicial Systems
+### 9. Judiciary
   [Aragon](https://aragon.org/)
 
 ### 10. Video Streaming
