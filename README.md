@@ -12,11 +12,11 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 ### 4. Conferences
   [DXCon](https://github.com/Blockternship/DXCon)
 
-### 5. Crowdfunding applications
+### 5. Crowdfunding 
 
-### 6. Supply-chain Management Systems
+### 6. Supply-chain
 
-### 7. Financial Systems
+### 7. Finance
 
 ### 8. Social Media
   [Steemit](https://steemit.com/) | [1ramp](https://1ramp.io/)
@@ -33,5 +33,10 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 ### 12. Charity
   [Giveth](https://giveth.io/)
   
+### 13. Storage
+  [StorJ](https://storj.io/)
+
+### 14. Exchange
+  [IDEX](https://idex.market/)
   
-#### Get your contributions booming in by sending PRs. Find a problem with the current list? Create an issue. Let's grow our decentralization community.
+#### Get your contributions booming in by sending PRs. Find a problem with the current list? Create an issue. Let's spread decentralization.
