@@ -10,6 +10,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 ### 3. Education / Universities / Colleges / Institutions
 
 ### 4. Conferences
+  [DXCon](https://github.com/Blockternship/DXCon)
 
 ### 5. Crowdfunding applications
 
@@ -33,4 +34,4 @@ A curated list of all the possible centralized entities (tangible/intangible) on
   [Giveth](https://giveth.io/)
   
   
-#### Get your contributions booming in by sending PRs. Find a problem with the current list? Create an issue. Let's grow our decentralization community
+#### Get your contributions booming in by sending PRs. Find a problem with the current list? Create an issue. Let's grow our decentralization community.
