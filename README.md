@@ -39,4 +39,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 ### 14. Exchange
   [IDEX](https://idex.market/)
   
+### 15. Bounties
+  [The Bounties Network](https://bounties.network/) | [Status Open Bounty](https://openbounty.status.im/)
+  
 #### Get your contributions booming in by sending PRs. Find a problem with the current list? Create an issue. Let's spread decentralization.
