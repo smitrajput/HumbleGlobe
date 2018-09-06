@@ -7,7 +7,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 ### 2. Governments
   [Aragon](https://aragon.org/)
 
-### 3. Universities / Colleges / Institutions
+### 3. Education / Universities / Colleges / Institutions
 
 ### 4. Non-Governmental Organizations (NGOs)
 
@@ -33,3 +33,6 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 
 ### 13. Charity
   [Giveth](https://giveth.io/)
+  
+  
+## Get your contributions booming in by sending PRs. Find a problem with the current list? Create an issue. Let's grow our decentralization community
