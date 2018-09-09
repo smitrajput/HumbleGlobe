@@ -35,7 +35,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
   [Giveth](https://giveth.io/)
   
 ### 13. Storage
-  [StorJ](https://storj.io/)
+  [StorJ](https://storj.io/) | [IPFS](https://ipfs.io/)
 
 ### 14. Exchange
   [IDEX](https://idex.market/)
