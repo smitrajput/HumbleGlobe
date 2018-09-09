@@ -13,6 +13,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
   [DXCon](https://github.com/Blockternship/DXCon)
 
 ### 5. Crowdfunding 
+  
 
 ### 6. Supply-chain
 
@@ -25,7 +26,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
   [Aragon](https://aragon.org/)
 
 ### 10. Video Streaming
-  [DTube](https://d.tube/)
+  [DTube](https://d.tube/) | [DLive](https://dlive.io/)
 
 ### 11. Open Source
   [Gitcoin](https://gitcoin.co/) | [Utopian](https://join.utopian.io/)
