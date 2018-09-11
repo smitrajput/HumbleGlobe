@@ -1,5 +1,5 @@
 # Decentraworld [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-A curated list of all the possible centralized entities (tangible/intangible) on earth in no particular order, along with orgs/people already working on it to decentralize it; in order to connect interested blockchain developers to these orgs/people. This also works as a to-do list for total decentralization.  
+A curated list of all the possible centralized entities (tangible/intangible) on earth in no particular order, along with orgs/people already working on it to decentralize it; in order to bring interested blockchain developers to their areas of interest. This also works as a to-do list for total decentralization.  
 
 ### 1. Organizations / Companies / Communities
   [Aragon](https://aragon.org/) | [Colony](https://colony.io/) | [Giveth](https://giveth.io/)
@@ -8,6 +8,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
   [Aragon](https://aragon.org/)
 
 ### 3. Education / Universities / Colleges / Institutions
+[Edgecoin](https://www.edgecoin.io/)
 
 ### 4. Conferences
   [DXCon](https://github.com/Blockternship/DXCon)
