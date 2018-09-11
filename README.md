@@ -13,7 +13,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
   [DXCon](https://github.com/Blockternship/DXCon)
 
 ### 5. Crowdfunding 
-  [WeiFund](http://weifund.io/) | 
+  [WeiFund](http://weifund.io/) | [Lighthouse](https://lighthouse.cash/)
 
 ### 6. Supply-chain
 
