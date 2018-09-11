@@ -13,11 +13,12 @@ A curated list of all the possible centralized entities (tangible/intangible) on
   [DXCon](https://github.com/Blockternship/DXCon)
 
 ### 5. Crowdfunding 
-  
+  [WeiFund](http://weifund.io/) | 
 
 ### 6. Supply-chain
 
 ### 7. Finance
+[Chain](https://chain.com/)
 
 ### 8. Social Media
   [Steemit](https://steemit.com/) | [1ramp](https://1ramp.io/)
