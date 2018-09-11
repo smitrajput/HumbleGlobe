@@ -16,6 +16,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
   [WeiFund](http://weifund.io/) | [Lighthouse](https://lighthouse.cash/)
 
 ### 6. Supply-chain
+[Blockverify](http://www.blockverify.io/)
 
 ### 7. Finance
 [Chain](https://chain.com/)
