@@ -35,7 +35,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
   [Gitcoin](https://gitcoin.co/) | [Utopian](https://join.utopian.io/)
 
 ### 12. Charity
-  [Giveth](https://giveth.io/)
+  [Giveth](https://giveth.io/) | [Charity DAO](http://charity-dao.org/)
   
 ### 13. Storage
   [StorJ](https://storj.io/) | [IPFS](https://ipfs.io/)
