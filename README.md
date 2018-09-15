@@ -46,4 +46,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 ### 15. Bounties
   [The Bounties Network](https://bounties.network/) | [Status Open Bounty](https://openbounty.status.im/) | [Gitcoin](https://gitcoin.co/)
   
+### 16. Fundraising
+  [Rocket DAO](https://rocketico.io/)
+  
 #### Find a problem with the current list? Create an issue. Get your contributions booming in. Let's decentralize.
