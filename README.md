@@ -26,7 +26,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
   [Steemit](https://steemit.com/) | [1ramp](https://1ramp.io/)
 
 ### 9. Judiciary
-  [Aragon](https://aragon.org/)
+  [Aragon](https://aragon.org/) | [Kleros](https://kleros.io/)
 
 ### 10. Video Streaming
   [DTube](https://d.tube/) | [DLive](https://dlive.io/)
