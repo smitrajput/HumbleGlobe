@@ -23,7 +23,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 [Chain](https://chain.com/) | [BitPesa](https://www.bitpesa.co/)
 
 ### 8. Social Media
-  [Steemit](https://steemit.com/) | [1ramp](https://1ramp.io/)
+  [Steemit](https://steemit.com/) | [1ramp](https://1ramp.io/) | [sola](https://sola.ai/)
 
 ### 9. Judiciary
   [Aragon](https://aragon.org/) | [Kleros](https://kleros.io/) | [Dcourt](https://dcourt.io/)
