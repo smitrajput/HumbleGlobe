@@ -38,7 +38,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
   [Giveth](https://giveth.io/) | [Charity DAO](http://charity-dao.org/)
   
 ### 13. Storage
-  [StorJ](https://storj.io/) | [IPFS](https://ipfs.io/)
+  [StorJ](https://storj.io/) | [IPFS](https://ipfs.io/) | [sia](http://www.sia.tech/)
 
 ### 14. Exchange
   [IDEX](https://idex.market/) | [0x](https://0xproject.com/)
