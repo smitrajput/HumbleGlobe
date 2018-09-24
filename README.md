@@ -8,7 +8,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
   [Aragon](https://aragon.org/)
 
 ### 3. Education / Universities / Colleges / Institutions
-[Edgecoin](https://www.edgecoin.io/)
+[Edgecoin](https://www.edgecoin.io/) | [ODEM](https://odem.io/)
 
 ### 4. Conferences
   [DXCon](https://github.com/Blockternship/DXCon)
