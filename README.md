@@ -49,4 +49,6 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 ### 16. Fundraising
   [go help fund](https://gohelpfund.com/) | [WECARECOIN](https://wecarecoin.com/)
   
-#### Find a problem with the current list? Create an issue. Get your contributions booming in. Let's decentralize.
+#### Find a problem with the current list? Create an issue. Get your contributions booming in. Let's decentralize this world.
+
+#### This list is intended to connect and expose blockchain developers to their domains/orgs of interest, promoting decentralization. If you own any of the orgs listed above and don't want it to be a part of this list, create an issue specifying your org.
