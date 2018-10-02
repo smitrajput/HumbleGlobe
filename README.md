@@ -2,7 +2,7 @@
 A curated list of all the possible centralized entities (tangible/intangible) on earth in no particular order, along with orgs/people already working on it to decentralize it; in order to bring interested blockchain developers to their areas of interest. This also works as a to-do list for total decentralization.  
 
 ### 1. Organizations / Companies / Communities
-  [Aragon](https://aragon.org/) | [Colony](https://colony.io/) | [Giveth](https://giveth.io/)
+  [Aragon](https://aragon.org/) | [Colony](https://colony.io/) | [Giveth](https://giveth.io/) | [DAOstack](http://daostack.io/)
 
 ### 2. Governments
   [Aragon](https://aragon.org/)
