@@ -20,7 +20,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 [Blockverify](http://www.blockverify.io/) | [Viant](https://viant.io/)
 
 ### 7. Finance
-[Chain](https://chain.com/) 
+[Chain](https://chain.com/) | [BitPesa](https://www.bitpesa.co/)
 
 ### 8. Social Media
   [Steemit](https://steemit.com/) | [1ramp](https://1ramp.io/) | [sola](https://sola.ai/)
