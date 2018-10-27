@@ -50,7 +50,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
   [go help fund](https://gohelpfund.com/) | [WECARECOIN](https://wecarecoin.com/)
   
 ### 17. Social Impact
-  [bifrost](https://www.projectbifrost.com/)
+  [bifrost](https://www.projectbifrost.com/) | [BSIC](https://www.blockchainforsocialimpact.com/)
   
 #### Find a problem with the current list? Create an issue. Get your contributions booming in. Let's decentralize this world (I know it sounds over-ambitious, but let it be).
 
