@@ -53,7 +53,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
   [bifrost](https://www.projectbifrost.com/) | [BSIC](https://www.blockchainforsocialimpact.com/)
   
 ### 18. Gaming
-  [Loom Network](https://loomx.io/)
+  [Loom Network](https://loomx.io/) | [BitGuild](https://bitguild.io/)
   
 #### Find a problem with the current list? Create an issue. Get your contributions booming in. Let's decentralize this world (I know it sounds over-ambitious, but let it be).
 
