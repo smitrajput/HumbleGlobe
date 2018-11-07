@@ -55,6 +55,9 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 ### 18. Gaming
   [Loom Network](https://loomx.io/) | [BitGuild](https://bitguild.io/) | [XAYA](https://xaya.io/) | [PLAYKEY](https://playkey.io/en/)
   
+### 19. Identity
+[Civic](https://www.civic.com/)
+  
 #### Find a problem with the current list? Create an issue. Get your contributions booming in. Let's decentralize this world (I know it sounds over-ambitious, but let it be).
 
 #### This list is intended to connect and expose blockchain developers to their domains/orgs of interest, promoting decentralization. If you own any of the orgs listed above and don't want it to be a part of this list, create an issue specifying your org.
