@@ -57,6 +57,9 @@ A curated list of all the possible centralized entities (tangible/intangible) on
   
 ### 19. Identity
 [Civic](https://www.civic.com/)
+
+### 20. Journalism
+[Civil](https://civil.co/)
   
 #### Find a problem with the current list? Create an issue. Get your contributions booming in. Let's decentralize this world (I know it sounds over-ambitious, but let it be).
 
