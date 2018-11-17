@@ -20,7 +20,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 [Blockverify](http://www.blockverify.io/) | [Viant](https://viant.io/)
 
 ### 7. Finance
-[Chain](https://chain.com/) | [BitPesa](https://www.bitpesa.co/)
+[Chain](https://chain.com/) | [BitPesa](https://www.bitpesa.co/) | [Balanc3](https://www.balanc3.net/)
 
 ### 8. Social Media
   [Steemit](https://steemit.com/) | [1ramp](https://1ramp.io/) | [sola](https://sola.ai/) | [Murmur](https://www.murmurdapp.com/)
@@ -41,7 +41,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
   [StorJ](https://storj.io/) | [IPFS](https://ipfs.io/) | [sia](http://www.sia.tech/)
 
 ### 14. Exchange
-  [IDEX](https://idex.market/) | [0x](https://0xproject.com/) | [NEX](https://neonexchange.org/) | [Bisq](https://bisq.network/) | [Balanc3](https://www.balanc3.net/)
+  [IDEX](https://idex.market/) | [0x](https://0xproject.com/) | [NEX](https://neonexchange.org/) | [Bisq](https://bisq.network/)
   
 ### 15. Bounties
   [The Bounties Network](https://bounties.network/) | [Status Open Bounty](https://openbounty.status.im/) | [Gitcoin](https://gitcoin.co/)
