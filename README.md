@@ -50,7 +50,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
   [go help fund](https://gohelpfund.com/) | [WECARECOIN](https://wecarecoin.com/)
   
 ### 17. Social Impact
-  [bifrost](https://www.projectbifrost.com/) | [BSIC](https://www.blockchainforsocialimpact.com/)
+  [bifrost](https://www.projectbifrost.com/) | [BSIC](https://www.blockchainforsocialimpact.com/) | [ixo](https://ixo.world/)
   
 ### 18. Gaming
   [Loom Network](https://loomx.io/) | [BitGuild](https://bitguild.io/) | [XAYA](https://xaya.io/) | [PLAYKEY](https://playkey.io/en/)
