@@ -63,6 +63,9 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 
 ### 21. Security
 [Consensys Diligence](https://consensys.net/diligence/) | [Solidified](https://solidified.io/)
+
+### 22. Virtual Reality
+[Decentraland](https://decentraland.org/)
   
 #### Find a problem with the current list? Create an issue. Get your contributions booming in. Let's decentralize this world (I know it sounds over-ambitious, but let it be).
 
