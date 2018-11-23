@@ -62,7 +62,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 [Civil](https://civil.co/)
 
 ### 21. Security
-[Consensys Diligence](https://consensys.net/diligence/)
+[Consensys Diligence](https://consensys.net/diligence/) | [Solidified](https://solidified.io/)
   
 #### Find a problem with the current list? Create an issue. Get your contributions booming in. Let's decentralize this world (I know it sounds over-ambitious, but let it be).
 
