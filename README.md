@@ -1,4 +1,4 @@
-# The Decentralized Billboard[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+# The Decentralized Billboard    [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 A curated list of all the possible centralized entities (tangible/intangible) on earth in no particular order, along with orgs/people already working on it to decentralize it; in order to bring interested blockchain developers to their areas of interest. This also works as a to-do list for total decentralization.  
 
 ### 1. Organizations / Companies / Communities
@@ -42,7 +42,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 
 ### 14. Exchange
   [IDEX](https://idex.market/) | [0x](https://0xproject.com/) | [NEX](https://neonexchange.org/) | [Bisq](https://bisq.network/)
-  
+              
 ### 15. Bounties
   [The Bounties Network](https://bounties.network/) | [Status Open Bounty](https://openbounty.status.im/) | [Gitcoin](https://gitcoin.co/)
   
