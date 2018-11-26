@@ -66,6 +66,9 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 
 ### 22. Virtual Reality
 [Decentraland](https://decentraland.org/)
+
+### 23. Stability
+[MakerDAO](https://makerdao.com/dai)
   
 #### Find a problem with the current list? Create an issue. Get your contributions booming in. Let's decentralize this world (I know it sounds over-ambitious, but let it be).
 
