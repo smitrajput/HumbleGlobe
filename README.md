@@ -72,6 +72,9 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 
 ### 24. Internet of Things
 [Filament](https://filament.com/)
+
+### 25. Privacy
+[NuCypher](https://www.nucypher.com/)
   
 #### Find a problem with the current list? Create an issue. Get your contributions booming in. Let's decentralize this world (I know it sounds over-ambitious, but let it be).
 
