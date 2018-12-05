@@ -75,6 +75,9 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 
 ### 25. Privacy
 [NuCypher](https://www.nucypher.com/)
+
+### 26. Environment
+[Climatecoin](https://climatecoin.io/)
   
 #### Find a problem with the current list? Create an issue. Get your contributions booming in. Let's decentralize this world (I know it sounds over-ambitious, but let it be).
 
