@@ -23,7 +23,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 [Chain](https://chain.com/) | [BitPesa](https://www.bitpesa.co/) | [Balanc3](https://www.balanc3.net/) | [Settle](https://settle.finance/) | [ChromaWay](https://chromaway.com/)
 
 ### 8. Social Media
-  [Steemit](https://steemit.com/) | [1ramp](https://1ramp.io/) | [sola](https://sola.ai/) | [Murmur](https://www.murmurdapp.com/)
+  [Steemit](https://steemit.com/) | [1ramp](https://1ramp.io/) | [sola](https://sola.ai/) | [Murmur](https://www.murmurdapp.com/) | [Peepeth](https://peepeth.com/welcome)
 
 ### 9. Judiciary
   [Aragon](https://aragon.org/) | [Kleros](https://kleros.io/) | [Dcourt](https://dcourt.io/) | [OpenLaw](https://openlaw.io/)
