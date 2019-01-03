@@ -41,7 +41,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
   [StorJ](https://storj.io/) | [IPFS](https://ipfs.io/) | [sia](http://www.sia.tech/)
 
 ### 14. Exchange
-  [IDEX](https://idex.market/) | [0x](https://0xproject.com/) | [NEX](https://neonexchange.org/) | [Bisq](https://bisq.network/) | [Localethereum](https://localethereum.com/)
+  [IDEX](https://idex.market/) | [0x](https://0xproject.com/) | [NEX](https://neonexchange.org/) | [Bisq](https://bisq.network/) | [Localethereum](https://localethereum.com/) | [WazirX](https://wazirx.com/)
               
 ### 15. Bounties
   [The Bounties Network](https://bounties.network/) | [Status Open Bounty](https://openbounty.status.im/) | [Gitcoin](https://gitcoin.co/)
