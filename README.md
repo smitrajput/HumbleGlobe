@@ -5,7 +5,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
   [Aragon](https://aragon.org/) | [Colony](https://colony.io/) | [Giveth](https://giveth.io/) | [DAOstack](http://daostack.io/)
 
 ### 2. Governments
-  [Arago](https://aragon.org/)
+  [Aragon](https://aragon.org/)
 
 ### 3. Education / Universities / Colleges / Institutions
 [Edgecoin](https://www.edgecoin.io/) | [ODEM](https://odem.io/) | [BLOCKCHAIN.EDU](https://blockchainedu.io/) | [BitDegree](https://www.bitdegree.org)
