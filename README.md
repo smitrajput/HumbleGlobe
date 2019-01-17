@@ -17,7 +17,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
   [WeiFund](http://weifund.io/) | [Lighthouse](https://lighthouse.cash/) | [Crowdcoinage](https://crowdcoinage.com/)
 
 ### 6. Supply-chain
-[Blockverify](http://www.blockverify.io/) | [Viant](https://viant.io/).
+[Blockverify](http://www.blockverify.io/) | [Viant](https://viant.io/)
 
 ### 7. Finance
 [Chain](https://chain.com/) | [BitPesa](https://www.bitpesa.co/) | [Balanc3](https://www.balanc3.net/) | [Settle](https://settle.finance/) | [ChromaWay](https://chromaway.com/)
