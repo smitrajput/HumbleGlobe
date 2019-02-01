@@ -81,6 +81,9 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 
 ### 27. Marketplace
 [Eraswap](https://www.eraswaptoken.io/)
+
+### 28. Income Source
+[Cent](https://beta.cent.co/)
   
 #### Find a problem with the current list? Create an issue. Get your contributions booming in. Let's decentralize this world (I know it sounds over-ambitious, but let it be).
 
