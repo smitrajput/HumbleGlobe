@@ -80,7 +80,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 [Climatecoin](https://climatecoin.io/)
 
 ### 27. Marketplace
-[Eraswap](https://www.eraswaptoken.io/)
+[Eraswap](https://www.eraswaptoken.io/) | [OpenBazaar](https://openbazaar.org/)
 
 ### 28. Income Source
 [Cent](https://beta.cent.co/)
