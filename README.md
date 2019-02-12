@@ -1,13 +1,18 @@
-# The Decentralized Billboard    [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-A curated list of all the possible centralized entities (tangible/intangible) on earth in no particular order, along with orgs/people already working on it to decentralize it; in order to bring interested blockchain developers to their areas of interest. This also works as a to-do list for total decentralization.  
+<p align="center">
+  <img src="./cryptocurrency.png" align="center" width="150">
+</p>
 
-### 1. Organizations / Companies / Communities
+<h1 align="center">DecentraList</h1>
+<p align="center">A curated list of  centralized entities with orgs working on it, as well as a to-do list for total decentralization.</p>    [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+  
+
+### 1. Organizations / Companies / Communities  :family: 
   [Aragon](https://aragon.org/) | [Colony](https://colony.io/) | [Giveth](https://giveth.io/) | [DAOstack](http://daostack.io/)
 
-### 2. Governments
+### 2. Governments :busts_in_silhouette:
   [Aragon](https://aragon.org/)
 
-### 3. Education / Universities / Colleges / Institutions 
+### 3. Education / Universities / Colleges / Institutions  :books:
 [Edgecoin](https://www.edgecoin.io/) | [ODEM](https://odem.io/) | [BLOCKCHAIN.EDU](https://blockchainedu.io/) | [BitDegree](https://www.bitdegree.org) | [Kauri](https://kauri.io/)
 
 ### 4. Conferences
@@ -88,3 +93,7 @@ A curated list of all the possible centralized entities (tangible/intangible) on
 #### Find a problem with the current list? Create an issue. Get your contributions booming in. Let's decentralize this world (I know it sounds over-ambitious, but let it be).
 
 #### This list is intended to connect and expose blockchain developers to their domains/orgs of interest, promoting decentralization. If you own any of the orgs listed above and don't want it to be a part of this list, create an issue specifying your org.
+
+## Credits
+
+<div>Icons: made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
