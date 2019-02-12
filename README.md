@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">DecentraList</h1>
-<p align="center">A curated list of  centralized entities with orgs working on it, as well as a to-do list for total decentralization.</p>    [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+<p align="center">A curated list of  centralized entities with orgs working on it, as well as a to-do list for total decentralization.</p>   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
   
 
 ### 1. Organizations / Companies / Communities  :family: 
@@ -15,16 +15,16 @@
 ### 3. Education / Universities / Colleges / Institutions  :books:
 [Edgecoin](https://www.edgecoin.io/) | [ODEM](https://odem.io/) | [BLOCKCHAIN.EDU](https://blockchainedu.io/) | [BitDegree](https://www.bitdegree.org) | [Kauri](https://kauri.io/)
 
-### 4. Conferences
+### 4. Conferences  :speech_balloon:
   [DXCon](https://github.com/Blockternship/DXCon)
 
-### 5. Crowdfunding 
+### 5. Crowdfunding  :moneybag:
   [WeiFund](http://weifund.io/) | [Lighthouse](https://lighthouse.cash/) | [Crowdcoinage](https://crowdcoinage.com/)
 
-### 6. Supply-chain
+### 6. Supply-chain  :chart_with_upwards_trend:
 [Blockverify](http://www.blockverify.io/) | [Viant](https://viant.io/)
 
-### 7. Finance
+### 7. Finance  :dollar:
 [Chain](https://chain.com/) | [BitPesa](https://www.bitpesa.co/) | [Balanc3](https://www.balanc3.net/) | [Settle](https://settle.finance/) | [ChromaWay](https://chromaway.com/)
 
 ### 8. Social Media
