@@ -6,7 +6,7 @@
 <p align="center">A curated list of  centralized entities with orgs working on it, as well as a to-do list for total decentralization.</p> 
 
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![HitCount](http://hits.dwyl.io/smitrajput/HumbleGlobe.svg)](http://hits.dwyl.io/smitrajput/HumbleGlobe)
 
 
 ### 1. Organizations / Companies / Communities  :family: 
