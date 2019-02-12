@@ -3,8 +3,11 @@
 </p>
 
 <h1 align="center">DecentraList</h1>
-<p align="center">A curated list of  centralized entities with orgs working on it, as well as a to-do list for total decentralization.</p>   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-  
+<p align="center">A curated list of  centralized entities with orgs working on it, as well as a to-do list for total decentralization.</p> 
+
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 
 ### 1. Organizations / Companies / Communities  :family: 
   [Aragon](https://aragon.org/) | [Colony](https://colony.io/) | [Giveth](https://giveth.io/) | [DAOstack](http://daostack.io/)
