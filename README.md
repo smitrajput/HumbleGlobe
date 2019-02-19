@@ -40,7 +40,7 @@
   [DTube](https://d.tube/) | [DLive](https://dlive.io/)
 
 ### 11. Open Source :open_mouth:
-  [Gitcoin](https://gitcoin.co/) | [Utopian](https://join.utopian.io/)
+  [Gitcoin](https://gitcoin.co/) | [Utopian](https://join.utopian.io/) | [Backfeed](http://backfeed.cc/)
 
 ### 12. Charity :raised_hands:
   [Giveth](https://giveth.io/) | [Charity DAO](http://charity-dao.org/)
