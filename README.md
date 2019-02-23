@@ -92,6 +92,9 @@
 
 ### 28. Income Source :atm:
 [Cent](https://beta.cent.co/)
+
+### 29. Prediction
+[Augur](https://www.augur.net/)
   
 #### Find a problem with the current list? Create an issue. Get your contributions booming in. Let's decentralize this world (I know it sounds over-ambitious, but let it be).
 
