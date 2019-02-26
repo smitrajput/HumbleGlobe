@@ -95,6 +95,9 @@
 
 ### 29. Prediction
 [Augur](https://www.augur.net/)
+
+### 30. Digital Assets
+[DigiX](https://digix.global/)
   
 #### Find a problem with the current list? Create an issue. Get your contributions booming in. Let's decentralize this world (I know it sounds over-ambitious, but let it be).
 
