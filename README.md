@@ -64,7 +64,7 @@
   [Loom Network](https://loomx.io/) | [BitGuild](https://bitguild.io/) | [XAYA](https://xaya.io/) | [PLAYKEY](https://playkey.io/en/)
   
 ### 19. Identity :sunglasses:
-[Civic](https://www.civic.com/)
+[Civic](https://www.civic.com/) | [Velix.ID](https://www.velix.id/)
 
 ### 20. Journalism :raising_hand:
 [Civil](https://civil.co/)
