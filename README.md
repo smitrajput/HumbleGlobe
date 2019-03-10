@@ -13,7 +13,7 @@
   [Aragon](https://aragon.org/) | [Colony](https://colony.io/) | [Giveth](https://giveth.io/) | [DAOstack](http://daostack.io/) | [Otonomos](https://otonomos.com/)
 
 ### 2. Governments :busts_in_silhouette:
-  [Aragon](https://aragon.org/)
+  [Aragon](https://aragon.org/) | [Somish](https://www.somish.com/)
 
 ### 3. Education / Universities / Colleges / Institutions  :books:
 [Edgecoin](https://www.edgecoin.io/) | [ODEM](https://odem.io/) | [BLOCKCHAIN.EDU](https://blockchainedu.io/) | [BitDegree](https://www.bitdegree.org) | [Kauri](https://kauri.io/)
