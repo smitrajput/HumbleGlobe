@@ -88,7 +88,7 @@
 [Climatecoin](https://climatecoin.io/)
 
 ### 27. Marketplace :chart_with_upwards_trend: :chart_with_downwards_trend:
-[Eraswap](https://www.eraswaptoken.io/) | [OpenBazaar](https://openbazaar.org/) | [Origami](https://ori.network/)
+[Eraswap](https://www.eraswaptoken.io/) | [OpenBazaar](https://openbazaar.org/) | [Origami](https://ori.network/) | [Gnosis](https://gnosis.pm/)
 
 ### 28. Income Source :atm:
 [Cent](https://beta.cent.co/)
