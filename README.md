@@ -28,7 +28,7 @@
 [Blockverify](http://www.blockverify.io/) | [Viant](https://viant.io/) | [Provenance](https://www.provenance.org/)
 
 ### 7. Finance  :dollar: :dollar:
-[Chain](https://chain.com/) | [BitPesa](https://www.bitpesa.co/) | [Balanc3](https://www.balanc3.net/) | [Settle](https://settle.finance/) | [ChromaWay](https://chromaway.com/)
+[Chain](https://chain.com/) | [BitPesa](https://www.bitpesa.co/) | [Balanc3](https://www.balanc3.net/) | [Settle](https://settle.finance/) | [ChromaWay](https://chromaway.com/) | [Signzy](https://signzy.com/)
 
 ### 8. Social Media  :pizza::smirk:
   [Steemit](https://steemit.com/) | [1ramp](https://1ramp.io/) | [sola](https://sola.ai/) | [Murmur](https://www.murmurdapp.com/) | [Peepeth](https://peepeth.com/welcome) | [TruStory](https://www.trustory.io/)
