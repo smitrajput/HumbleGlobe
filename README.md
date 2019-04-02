@@ -49,7 +49,7 @@
   [StorJ](https://storj.io/) | [IPFS](https://ipfs.io/) | [sia](http://www.sia.tech/)
 
 ### 14. Exchange :currency_exchange:
-  [IDEX](https://idex.market/) | [0x](https://0xproject.com/) | [NEX](https://neonexchange.org/) | [Bisq](https://bisq.network/) | [Localethereum](https://localethereum.com/) | [WazirX](https://wazirx.com/) | [Coinmama](https://www.coinmama.com/?cxd=49533_372799&affid=49533) | [Unocoin](https://www.unocoin.com/
+  [IDEX](https://idex.market/) | [0x](https://0xproject.com/) | [NEX](https://neonexchange.org/) | [Bisq](https://bisq.network/) | [Localethereum](https://localethereum.com/) | [WazirX](https://wazirx.com/) | [Coinmama](https://www.coinmama.com/?cxd=49533_372799&affid=49533) | [unocoin](https://www.unocoin.com/)
               
 ### 15. Bounties :money_with_wings:
   [The Bounties Network](https://bounties.network/) | [Status Open Bounty](https://openbounty.status.im/) | [Gitcoin](https://gitcoin.co/)
