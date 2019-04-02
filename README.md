@@ -25,7 +25,7 @@
   [WeiFund](http://weifund.io/) | [Lighthouse](https://lighthouse.cash/) | [Crowdcoinage](https://crowdcoinage.com/)
 
 ### 6. Supply-chain  :chart_with_upwards_trend:
-[Blockverify](http://www.blockverify.io/) | [Viant](https://viant.io/) | [Provenance](https://www.provenance.org/)
+[Blockverify](http://www.blockverify.io/) | [Viant](https://viant.io/) | [Provenance](https://www.provenance.org/) | [Sofocle](https://www.sofocle.com/)
 
 ### 7. Finance  :dollar: :dollar:
 [Chain](https://chain.com/) | [BitPesa](https://www.bitpesa.co/) | [Balanc3](https://www.balanc3.net/) | [Settle](https://settle.finance/) | [ChromaWay](https://chromaway.com/) | [Signzy](https://signzy.com/)
